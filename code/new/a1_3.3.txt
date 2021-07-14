@@ -1,0 +1,34 @@
+5 p-values: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3465, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4644, 0.0, 0.0, 0.0793, 0.0, 0.0, 0.0, 0.0004, 0.004, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0006, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5592, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0038, 0.0, 0.0, 0.0053, 0.1749, 0.0, 0.0, 0.0, 0.0649, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+50 p-values: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3465, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4644, 0.0, 0.0, 0.0793, 0.0, 0.0, 0.0, 0.0004, 0.004, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0006, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5592, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0038, 0.0, 0.0, 0.0053, 0.1749, 0.0, 0.0, 0.0, 0.0649, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Accuracy for 1k: 0.3641
+Accuracy for full dataset: 0.3635
+Chosen feature intersection: [ 11  21 149 163]
+Top-5 at higher: [ 21 149  11 163  20]
+My answers:
+(a): 15.Number of adverbs, 22. Standard deviation of IMG from Bristol, Gilhooly, and Logie norms, 150.
+        receptiviti_intellectual, 164.receptiviti_self_conscious. 
+ For number 15, the adverbs are modifiers for verb, 
+        adjectives. For more extreme political groups, they might be more likely to try to magnify/minimize situation 
+        to their advantage, thus using more adverbs.
+ For number 22 the Imageability measures how easy a word can trigger
+        mental images. This can showcase the difference in age. Younger people have more active imagination and use more
+        imagenitive words. Studies have shown that the Left tend to be younger than the Right in general. Thus, this
+        feature can be used to differentiate different political groups.
+ For number 164, self conscious can be one of the 
+        major reasons that show differentiation between political group. People that are more extreme in their ideology 
+        can be less self conscious than more center people. This quality is why they can accept more extreme ideologies 
+        easier than others. This is also true for extreme groups/ideology in general. Thus lack of self consciousness 
+        could be related to political extremeness
+ For number 150, being intellectual can be a determinate for education
+        level, or pretentiousness. Studies have show that the level of education and class are related to which political
+        group one identify with. Thus, it can be useful in filtering the comments into classes.
+
+        (b): P-values are generally lower when given more data. This is probably because the more data we have, the 
+        more identifiable each feature is to a certain political group.
+
+        (c): The only feature in the 32k training case is number 21.Standard deviation of AoA (100-700) from Bristol, 
+        Gilhooly, and Logie norms. Age of acquisition refers to the age when a word is learned. This feature can 
+        showcase the difference in age and education, both are related to different political affiliations. This 
+        feature would become more prominent as the data becomes larger because there are more words, so the STD of AoA 
+        becomes more accurate.
+        
